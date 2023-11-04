@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+    color: #333;
+}
+
+header {
+    background-color: #0078d4;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: hsl(200, 87%, 35%);
+    color: white;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -4px;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    border-right: 2px solid white;
+    text-transform: uppercase;
+}
